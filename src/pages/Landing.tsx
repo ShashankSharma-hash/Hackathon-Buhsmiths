@@ -3,10 +3,10 @@ const Landing = () => {
     <div className="max-w-4xl mx-auto">
       <div className="text-center mb-12">
         <h1 className="text-5xl font-bold text-gray-900 mb-6">
-          Welcome to Hackathon Buhsmiths
+          Brainlytic
         </h1>
         <p className="text-xl text-gray-600 mb-8">
-          A prototype application built with React, Vite, TypeScript, and TailwindCSS
+          Welcome to Brainlytic,our goal is to detect early Dementia 
         </p>
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
           <a
