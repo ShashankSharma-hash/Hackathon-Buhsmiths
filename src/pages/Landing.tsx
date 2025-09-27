@@ -2,10 +2,10 @@ const Landing = () => {
   return (
     <div className="max-w-4xl mx-auto">
       <div className="text-center mb-12">
-        <h1 className="text-5xl font-bold text-gray-900 mb-6">
+        <h1 className="text-5xl font-bold text-white mb-6">
           Brainlytic
         </h1>
-        <p className="text-xl text-gray-600 mb-8">
+        <p className="text-xl text-white mb-8">
           Welcome to Brainlytic,our goal is to detect early Dementia 
         </p>
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
