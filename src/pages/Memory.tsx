@@ -49,20 +49,20 @@ const Memory = () => {
         <h2 className="text-xl font-semibold mb-4">Memory Statistics</h2>
         <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
           <div className="text-center">
-            <div className="text-2xl font-bold text-blue-600">1,234</div>
-            <div className="text-sm text-gray-500">Total Memories</div>
+            <div className="text-2xl font-bold text-blue-600">20</div>
+            <div className="text-sm text-gray-500">Number of sessions</div>
           </div>
           <div className="text-center">
             <div className="text-2xl font-bold text-green-600">11.2 MB</div>
             <div className="text-sm text-gray-500">Storage Used</div>
           </div>
           <div className="text-center">
-            <div className="text-2xl font-bold text-yellow-600">89%</div>
-            <div className="text-sm text-gray-500">Cache Hit Rate</div>
+            <div className="text-2xl font-bold text-yellow-600">60 hours</div>
+            <div className="text-sm text-gray-500">Session time</div>
           </div>
           <div className="text-center">
-            <div className="text-2xl font-bold text-purple-600">45</div>
-            <div className="text-sm text-gray-500">Active Sessions</div>
+            <div className="text-2xl font-bold text-purple-600">27-09-2025</div>
+            <div className="text-sm text-gray-500">Last session</div>
           </div>
         </div>
       </div>
