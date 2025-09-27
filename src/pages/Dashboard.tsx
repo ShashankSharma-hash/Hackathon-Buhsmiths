@@ -27,22 +27,22 @@ const Dashboard = () => {
               </svg>
             </div>
             <div className="ml-4">
-              <p className="text-sm font-medium text-gray-600">Active Sessions</p>
+              <p className="text-sm font-medium text-gray-600">Sessions Completed</p>
               <p className="text-2xl font-semibold text-gray-900">89</p>
             </div>
           </div>
         </div>
 
         <div className="bg-white rounded-lg shadow-md p-6">
-          <div className="flex items-center">
+          <div className="flex items-center"> 
             <div className="p-2 bg-yellow-100 rounded-lg">
               <svg className="w-6 h-6 text-yellow-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 10V3L4 14h7v7l9-11h-7z" />
               </svg>
             </div>
             <div className="ml-4">
-              <p className="text-sm font-medium text-gray-600">Processing Speed</p>
-              <p className="text-2xl font-semibold text-gray-900">2.3s</p>
+              <p className="text-sm font-medium text-gray-600">Average time spent</p>
+              <p className="text-2xl font-semibold text-gray-900">30 minutes</p>
             </div>
           </div>
         </div>
@@ -55,8 +55,8 @@ const Dashboard = () => {
               </svg>
             </div>
             <div className="ml-4">
-              <p className="text-sm font-medium text-gray-600">Success Rate</p>
-              <p className="text-2xl font-semibold text-gray-900">98.5%</p>
+              <p className="text-sm font-medium text-gray-600">Ratings</p>
+              <p className="text-2xl font-semibold text-gray-900">4.1</p>
             </div>
           </div>
         </div>
@@ -94,11 +94,11 @@ const Dashboard = () => {
             </div>
             <div>
               <div className="flex justify-between text-sm mb-1">
-                <span>Consent Management</span>
-                <span>45%</span>
+                <span>Risk score</span>
+                <span>30%</span>
               </div>
               <div className="w-full bg-gray-200 rounded-full h-2">
-                <div className="bg-yellow-600 h-2 rounded-full" style={{ width: '45%' }}></div>
+                <div className="bg-yellow-600 h-2 rounded-full" style={{ width: '30%' }}></div>
               </div>
             </div>
           </div>
