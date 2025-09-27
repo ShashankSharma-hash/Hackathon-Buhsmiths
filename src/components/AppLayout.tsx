@@ -41,7 +41,7 @@ const AppLayout = ({ children }: AppLayoutProps) => {
       {/* Footer */}
       <footer className="bg-gray-800 text-white py-6">
         <div className="container mx-auto px-4 text-center">
-          <p>&copy; 2024 Hackathon Buhsmiths. Built with React + Vite + TypeScript.</p>
+          <p>&copy; 2025 SIH Hackathon Bugsmiths..</p>
         </div>
       </footer>
     </div>
