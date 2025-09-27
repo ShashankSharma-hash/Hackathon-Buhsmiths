@@ -1,7 +1,7 @@
 const Consent = () => {
   return (
     <div className="max-w-2xl mx-auto">
-      <h1 className="text-3xl font-bold text-gray-900 mb-8">Consent Management</h1>
+      <h1 className="text-3xl font-bold white mb-8">Consent Management</h1>
       
       <div className="bg-white rounded-lg shadow-md p-6">
         <h2 className="text-xl font-semibold mb-4">Data Collection Consent</h2>

@@ -1,7 +1,7 @@
 const Speech = () => {
   return (
     <div className="max-w-2xl mx-auto">
-      <h1 className="text-3xl font-bold text-gray-900 mb-8">Speech Processing</h1>
+      <h1 className="text-3xl font-bold text-white mb-8">Speech Processing</h1>
       
       <div className="bg-white rounded-lg shadow-md p-6 mb-6">
         <h2 className="text-xl font-semibold mb-4">Speech Recognition</h2>
